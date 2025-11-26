@@ -1,2 +1,2 @@
 # javaScript
-JavaScript function practice on bimaculater.
+JavaScript function practice on various silly things!
